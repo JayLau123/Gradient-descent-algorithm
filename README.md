@@ -17,7 +17,9 @@ Gradient descent(GD) can be used in all the situations above as well as neural n
 4. Stochastic gradient descent is an alternative version which uses randomly selected samples from the data set instead of using all data points at each iteration, allowing for faster convergence on large datasets with many features.
 5. It can be used for both linear and non-linear problems in machine learning, neural networks, support vector machines(SVM).
 
+#### Please find more details in GD_example.ipynb
 
+#### useful links: https://www.youtube.com/watch?v=sDv4f4s2SB8
 
 
 
